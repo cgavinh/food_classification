@@ -1,4 +1,4 @@
-<img src='hero_veg.jpg' width=1200 height=200>
+<img src='hero_veg.jpg' width=1200>
 
 
 # food_classification
