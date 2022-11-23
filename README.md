@@ -1,4 +1,9 @@
 <img src='hero_veg.jpg' width=400>
+.cropped {
+width: 150px; 
+height: 150px; 
+overflow: hidden;
+}
 
 # food_classification
 How does an unsupervised machine learning algorithm group foods? Will it follow USDA doctrine or come up with something else?
