@@ -1,5 +1,5 @@
 # food_classification
-How does an unsupervised machine learning algorithm group foods? Will it follow USDA doctrine or come up wit something else?
+How does an unsupervised machine learning algorithm group foods? Will it follow USDA doctrine or come up with something else?
 
 # Project Aims:
 - Collect food nutritional information from the USDA database
